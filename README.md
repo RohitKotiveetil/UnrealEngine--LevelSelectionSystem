@@ -1,7 +1,7 @@
 # UnrealEngine--LevelSelectionSystem
 A blueprint template for adding Level Selection support to Unreal Engine projects.
 
-Optimized for Unreal Engine 5.3
+Optimized for Unreal Engine 5.6
 
 **Preview:** https://www.youtube.com/watch?v=jaS2IfbSHcg
 
